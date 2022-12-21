@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋🏼<br>🧑🏻‍💻 I am a Computer Engineering student with a passion for coding <br>📫 Add me on Linkedin :) ➡️ linkedin.com/in/laraturunc/
+Hi there 👋🏼<br>🧑🏻‍💻 I am a Computer Engineering student with a passion for coding <br>💫 I am currently focusing on improving my SQL skills. <br>📫 Add me on Linkedin :) ➡️ linkedin.com/in/laraturunc/
 
 
 ## 🌐 Socials:
