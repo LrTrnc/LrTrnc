@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋🏼<br>🧑🏻‍💻 I am a Computer Engineering student with a passion for coding <br>💫 I am currently focusing on improving my SQL skills. <br>📫 Add me on Linkedin :) ⬇️
+Hi there 👋🏼<br>🧑🏻‍💻 I am a Computer Engineering student with a passion for coding <br>💫 I am currently focusing on improving my deep learning skills and trying to build an OCR. <br>📫 Add me on Linkedin :) ⬇️
 
 
 ## 🌐 Socials:
